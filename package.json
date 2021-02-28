@@ -39,7 +39,7 @@
     "test.watch": "yarn test --watch"
   },
   "dependencies": {
-    "@stoplight/ordered-object-literal": "^1.0.1",
+    "@stoplight/ordered-object-literal": "hopasaurus/ordered-object-literal",
     "@stoplight/types": "^11.9.0",
     "@stoplight/yaml-ast-parser": "0.0.48",
     "tslib": "^1.12.0"
